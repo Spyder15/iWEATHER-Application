@@ -1,4 +1,4 @@
-# iWeather
+# iWEATHER
 
 This is a modern looking weather application with data fetched from [Accuweather API](https://www.accuweather.com/)
 
@@ -12,7 +12,7 @@ Technologies used:
 
 I fetched the data from the api with an async function
 
-[View iWeather](https://www.youtube.com/watch?v=9XA7sQKpL2Y&ab_channel=neo90sr)
+
 
 ![Preview 1](/img/preview.png)
 ---
@@ -20,7 +20,6 @@ I fetched the data from the api with an async function
 ---
 ![Preview 3](/img/preview2.png)
 
-[View iWeather](https://www.youtube.com/watch?v=9XA7sQKpL2Y&ab_channel=neo90sr)
 
 
 
